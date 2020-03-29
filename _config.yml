@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Yash Chitalia"
-  avatar           : #"profile.jpg"
+  avatar           : "profile.jpg"
   bio              : "I am a Ph.D. student in the Medical Robotics and Automation (RoboMed) Laboratory at the Georgia Institute of Technology."
   location         : "Atlanta, GA, United States"
   employer         :
