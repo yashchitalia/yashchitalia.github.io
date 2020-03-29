@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=Chitalia+Y%5BAuthor%5D"
   googlescholar    : #"https://scholar.google.com/citations?user=V6k-C_cAAAAJ&hl=en&oi=ao"
-  email            : "yashc [at] gatech [dot] edu"
+  email            : #"yashc [at] gatech [dot] edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
