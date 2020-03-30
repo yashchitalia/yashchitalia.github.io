@@ -11,7 +11,7 @@ redirect_from:
 I am a Ph.D. student in the [Medical Robotics and Automation Laboratory](https://robomed.gatech.edu/) at the Georgia Institute of Technology.
 I am interested in the design, modeling, and control of surgical robots, especially miniature continuum (flexible) robotic tools. I have been fortunate enough to have contributed 
 to the development of surgical robots that are changing the landscape cardiovascular and neurosurgical procedures. I have had the great pleasure of working with some very brilliant collaborators 
-at the Georgia Institute of Technology that specialize in robotics, mechatronics, computer vision, modeling of mechanical systems, machine learning, medical device design, diagnostics, haptics, and healthcare robotics. 
+at the Georgia Institute of Technology that specialize in robotics, mechatronics, computer vision, modeling of mechanical systems, machine learning and haptics. 
 I also often collaborate with interventional radiologists, radiation oncologists from the [Emory Winship Cancer Institute](https://winshipcancer.emory.edu/index.html) and the [Emory University Department of Neurosurgery](http://neurosurgery.emory.edu/).
 
 Before joining the lab, I also briefly worked on generating haptic datasets for [robotic hospital beds](http://pwp.gatech.edu/hrl/autobed-a-web-controlled-robotic-bed/) that can sense the pose of the occupant for collaborating with [PR2 robots](http://pwp.gatech.edu/hrl/wp-content/uploads/sites/231/2016/07/collaboration-robotic-bed.pdf). 
