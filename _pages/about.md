@@ -17,5 +17,5 @@ I also often collaborate with interventional radiologists, radiation oncologists
 Before joining the lab, I also briefly worked on generating haptic datasets for robotic hospital beds that can sense the pose of the occupant for collaborating with PR2 robots. 
 I have been fortunate enough to have worked on embedded systems that go into home automation at Lutron Electronics and helping designing conrol policies for UAVs and Ford vehicles.
 
-Feel free to send an email to yashc[at]gatech[dot]edu if you have any questions about my research.
+Feel free to send an email to <code class="language-plaintext highlighter-rouge">yashc[at]gatech[dot]edu</code> yashc[at]gatech[dot]edu for any questions about my research.
 
