@@ -9,8 +9,7 @@ redirect_from:
 ---
 
 I’m a Ph.D. student in the [Medical Robotics and Automation Laboratory](https://robomed.gatech.edu/) at the [Georgia Institute of Technology](https://www.gatech.edu/).
- 
+I am interested in the design, modeling and control of surgical robots. 
 Before joining the lab, 
-I am interested in . 
 Feel free to send an email to yashc[at]gatech[dot]edu if you have any questions about my research.
 
