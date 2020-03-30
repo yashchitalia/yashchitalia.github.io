@@ -8,14 +8,36 @@ redirect_from:
   - /about.html
 ---
 <img align="right" src="https://yashchitalia.github.io/images/yash_chitalia_homepage.jpg" alt="Photo" style="width: 220px; border-radius: 10px; padding: 10px 10px 10px 10px"/>
-I am a Ph.D. student in the [Medical Robotics and Automation Laboratory](https://robomed.gatech.edu/) at the [Georgia Institute of Technology](https://www.gatech.edu/).
+I am a Ph.D. student in the [Medical Robotics and Automation Laboratory](https://robomed.gatech.edu/) at the Georgia Institute of Technology.
 I am interested in the design, modeling, and control of surgical robots, especially miniature continuum (flexible) robotic tools. I have been fortunate enough to have contributed 
 to the development of surgical robots that are changing the landscape cardiovascular and neurosurgical procedures. I have had the great pleasure of working with some very brilliant collaborators 
-at the Georgia Institute of Technology that specialize in mechatronics, computer vision, modeling of mechanical systems, machine learning, medical device design, diagnostics, haptics, and healthcare robotics. 
+at the Georgia Institute of Technology that specialize in robotics, mechatronics, computer vision, modeling of mechanical systems, machine learning, medical device design, diagnostics, haptics, and healthcare robotics. 
 I also often collaborate with interventional radiologists, radiation oncologists from the [Emory Winship Cancer Institute](https://winshipcancer.emory.edu/index.html) and the [Emory University Department of Neurosurgery](http://neurosurgery.emory.edu/).
 
 Before joining the lab, I also briefly worked on generating haptic datasets for [robotic hospital beds](http://pwp.gatech.edu/hrl/autobed-a-web-controlled-robotic-bed/) that can sense the pose of the occupant for collaborating with [PR2 robots](http://pwp.gatech.edu/hrl/wp-content/uploads/sites/231/2016/07/collaboration-robotic-bed.pdf). 
-I have been fortunate to have worked on embedded systems that go into home automation at Lutron Electronics and helping designing conrol policies for UAVs and Ford vehicles.
+I have been fortunate to have worked on embedded system software at Lutron Electronics and designing conrol policies for UAVs and Ford vehicles at the University of Michigan.
 
 Feel free to send an email to <code class="language-plaintext highlighter-rouge">yashc[at]gatech[dot]edu</code> for any questions about my research.
+
+
+### News
+[02/2020] [Paper](https://ieeexplore.ieee.org/document/9003240) on a miniature force sensor is published in IEEE Sensors journal.
+
+[01/2020] [Paper](https://ieeexplore.ieee.org/abstract/document/8972454) on a micro-scale large deflection shape sensor published in IEEE Robotics and Automation - Letters journal.
+
+[01/2020] Conference paper on ultrasound guided guidewire accepted at [ISMR 2020](http://www.ismr.gatech.edu/).
+
+[01/2020] Co-organizing workshop on ['Sensing and Feedback in Dexterous Medical/Surgical Robotics'](https://sites.google.com/view/2020-ismr-workshop-sensing/home) at [ISMR 2020](http://www.ismr.gatech.edu/).
+
+[01/2020] Co-organizing workshop on ['Convergence of IP, Tech Transfer, and Translation, for Medical Robotics Research'](https://sites.google.com/view/2020-ismr-tech-transfer/home) at [ISMR 2020](http://www.ismr.gatech.edu/).
+
+[01/2020] [Paper](https://ieeexplore.ieee.org/document/8963646) on robotic neuroendoscope design published in IEEE/ASME Transactions on Mechatronics journal.
+
+[11/2019] Presented [paper](https://ieeexplore.ieee.org/document/8968186) on pediatric neuroendoscope at [IROS 2019](https://www.iros2019.org/) in Macau, China.
+
+[07/2019] [News article](https://rh.gatech.edu/features/think-small#node-10970) on pediatric neuroendoscope published in Research Horizons magazine.
+
+[05/2019] Invited speaker at the workshop on ['Open Challenges and State-of-the-Art in Control System Design and Technology Development for Surgical Robotic Systems'](https://sites.google.com/ualberta.ca/2019-icra-workshop/home?authuser=1) at [ICRA 2019])(https://www.icra2019.org/) in Montreal, Canada.
+
+[04/2019] Our robotic guidewire project receives a [$2.8 Million grant](https://petitinstitute.gatech.edu/news/desai-secures-28-million-grant-develop-steerable-robotic-guidewire).
 
