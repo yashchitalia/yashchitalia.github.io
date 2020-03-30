@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I’m a Ph.D. student in the [Medical Robotics and Automation Laboratory](https://robomed.gatech.edu/) at the [Georgia Institute of Technology](https://robomed.gatech.edu/).
+I’m a Ph.D. student in the [Medical Robotics and Automation Laboratory](https://robomed.gatech.edu/) at the [Georgia Institute of Technology](https://www.gatech.edu/).
  
 Before joining the lab, 
 I am interested in . 
