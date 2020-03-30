@@ -14,8 +14,8 @@ to the development of surgical robots that are changing the landscape cardiovasc
 at the Georgia Institute of Technology that specialize in mechatronics, computer vision, modeling of mechanical systems, machine learning, medical device design, diagnostics, haptics, and healthcare robotics. 
 I also often collaborate with interventional radiologists, radiation oncologists from the [Emory Winship Cancer Institute](https://winshipcancer.emory.edu/index.html) and the [Emory University Department of Neurosurgery](http://neurosurgery.emory.edu/).
 
-Before joining the lab, I also briefly worked on generating haptic datasets for robotic hospital beds that can sense the pose of the occupant for collaborating with PR2 robots. 
-I have been fortunate enough to have worked on embedded systems that go into home automation at Lutron Electronics and helping designing conrol policies for UAVs and Ford vehicles.
+Before joining the lab, I also briefly worked on generating haptic datasets for [robotic hospital beds](http://pwp.gatech.edu/hrl/autobed-a-web-controlled-robotic-bed/) that can sense the pose of the occupant for collaborating with [PR2 robots](http://pwp.gatech.edu/hrl/wp-content/uploads/sites/231/2016/07/collaboration-robotic-bed.pdf). 
+I have been fortunate to have worked on embedded systems that go into home automation at Lutron Electronics and helping designing conrol policies for UAVs and Ford vehicles.
 
 Feel free to send an email to <code class="language-plaintext highlighter-rouge">yashc[at]gatech[dot]edu</code> for any questions about my research.
 
