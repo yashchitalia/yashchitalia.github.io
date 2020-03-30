@@ -86,7 +86,7 @@ author:
   location         : "Atlanta, GA, United States"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=Chitalia+Y%5BAuthor%5D"
-  googlescholar    : "/citations?user=V6k-C_cAAAAJ&hl=en&oi=ao"
+  googlescholar    : #"/citations?user=V6k-C_cAAAAJ&hl=en&oi=ao"
   email            : "yashc@gatech.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
