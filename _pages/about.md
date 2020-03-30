@@ -21,23 +21,14 @@ Feel free to send an email to <code class="language-plaintext highlighter-rouge"
 
 
 ### News
-[02/2020] [Paper](https://ieeexplore.ieee.org/document/9003240) on a miniature force sensor is published in IEEE Sensors journal.
-
-[01/2020] [Paper](https://ieeexplore.ieee.org/abstract/document/8972454) on a micro-scale large deflection shape sensor published in IEEE Robotics and Automation - Letters journal.
-
-[01/2020] Conference paper on ultrasound guided guidewire accepted at [ISMR 2020](http://www.ismr.gatech.edu/).
-
-[01/2020] Co-organizing workshop on ['Sensing and Feedback in Dexterous Medical/Surgical Robotics'](https://sites.google.com/view/2020-ismr-workshop-sensing/home) at [ISMR 2020](http://www.ismr.gatech.edu/).
-
-[01/2020] Co-organizing workshop on ['Convergence of IP, Tech Transfer, and Translation, for Medical Robotics Research'](https://sites.google.com/view/2020-ismr-tech-transfer/home) at [ISMR 2020](http://www.ismr.gatech.edu/).
-
-[01/2020] [Paper](https://ieeexplore.ieee.org/document/8963646) on robotic neuroendoscope design published in IEEE/ASME Transactions on Mechatronics journal.
-
-[11/2019] Presented [paper](https://ieeexplore.ieee.org/document/8968186) on pediatric neuroendoscope at [IROS 2019](https://www.iros2019.org/) in Macau, China.
-
-[07/2019] [News article](https://rh.gatech.edu/features/think-small#node-10970) on pediatric neuroendoscope published in Research Horizons magazine.
-
-[05/2019] Invited speaker at the workshop on ['Open Challenges and State-of-the-Art in Control System Design and Technology Development for Surgical Robotic Systems'](https://sites.google.com/ualberta.ca/2019-icra-workshop/home?authuser=1) at [ICRA 2019])(https://www.icra2019.org/) in Montreal, Canada.
-
-[04/2019] Our robotic guidewire project receives a [$2.8 Million grant](https://petitinstitute.gatech.edu/news/desai-secures-28-million-grant-develop-steerable-robotic-guidewire).
+<b>[02/2020]</b> [Paper](https://ieeexplore.ieee.org/document/9003240) on a miniature force sensor is published in IEEE Sensors journal.<br />
+<b>[01/2020]</b> [Paper](https://ieeexplore.ieee.org/abstract/document/8972454) on a micro-scale large deflection shape sensor published in IEEE Robotics and Automation - Letters journal.<br />
+<b>[01/2020]</b> Conference paper on ultrasound guided guidewire accepted at [ISMR 2020](http://www.ismr.gatech.edu/).<br />
+<b>[01/2020]</b> Co-organizing workshop on ['Sensing and Feedback in Dexterous Medical/Surgical Robotics'](https://sites.google.com/view/2020-ismr-workshop-sensing/home) at [ISMR 2020](http://www.ismr.gatech.edu/).<br />
+<b>[01/2020]</b> Co-organizing workshop on ['Convergence of IP, Tech Transfer, and Translation, for Medical Robotics Research'](https://sites.google.com/view/2020-ismr-tech-transfer/home) at [ISMR 2020](http://www.ismr.gatech.edu/).<br />
+<b>[01/2020]</b> [Paper](https://ieeexplore.ieee.org/document/8963646) on robotic neuroendoscope design published in IEEE/ASME Transactions on Mechatronics journal.<br />
+<b>[11/2019]</b> Presented [paper](https://ieeexplore.ieee.org/document/8968186) on pediatric neuroendoscope at [IROS 2019](https://www.iros2019.org/) in Macau, China.<br />
+<b>[07/2019]</b> [News article](https://rh.gatech.edu/features/think-small#node-10970) on pediatric neuroendoscope published in Research Horizons magazine.<br />
+<b>[05/2019]</b> Invited speaker at the workshop on ['Open Challenges and State-of-the-Art in Control System Design and Technology Development for Surgical Robotic Systems'](https://sites.google.com/ualberta.ca/2019-icra-workshop/home?authuser=1) at [ICRA 2019])(https://www.icra2019.org/) in Montreal, Canada.<br />
+<b>[04/2019]</b> Our robotic guidewire project receives a [$2.8 Million grant](https://petitinstitute.gatech.edu/news/desai-secures-28-million-grant-develop-steerable-robotic-guidewire).<br />
 
