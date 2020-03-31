@@ -28,12 +28,11 @@ Thus, the robotic tool and its controller are ergonomic in their design and full
 * <b>Y. Chitalia</b>, S. Jeong, J. Bok, V. Nguyen, S. Melkote, J. J. Chern, J. P. Desai, “Towards the Design and Development of aPediatric Neuroendoscope Tool,”
 2019 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS),Macau, China, 2019, pp.  2998-3004.
 * <b>Y. Chitalia</b>, X. Wang, V. Nguyen, S. Melkote, J. J. Chern, and J. P. Desai, “Design and Analysis of a Bidirectional Notch Joint for a Robotic Pediatric Neuroendoscope,” in 
-International Symposium on Experimental Robotics, (pp.  24-33).  Springer,Cham., November 2018
-
+International Symposium on Experimental Robotics, (pp.  24-33).  Springer,Cham., November 2018 <br />
 ### Patents:
 * J. P. Desai,<b>Y. Chitalia</b>, S. Jeong, J. J. Chern, “Steerable and flexible robotic endoscopic tools for minimally invasiveprocedures,” <b>PCT Patent, PCT/US20/20942, patent pending</b>, 2020
-* J. P. Desai,<b>Y. Chitalia</b>, S. Jeong, J. J. Chern, “Multi-port, steerable, and flexible robotic endoscopic tools for minimally invasiveprocedures,”<b>U.S. Patent Application No.  62/813,444, patent pending</b>, 2019
-
+* J. P. Desai,<b>Y. Chitalia</b>, S. Jeong, J. J. Chern, “Multi-port, steerable, and flexible robotic endoscopic tools for minimally invasiveprocedures,”<b>U.S. Patent Application No.  62/813,444, 
+patent pending</b>, 2019<br />
 ### Media Coverage:
 * [Steerable Robotic Instruments Could Help Pediatric Neurosurgeons](https://rh.gatech.edu/features/think-small#node-10970), <i>Research Horizons</i>, July 2019.
 
