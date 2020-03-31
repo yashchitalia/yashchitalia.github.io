@@ -9,7 +9,7 @@ author_profile: true
 
 ### Petit Mentor
 <iframe align = "right" src="https://www.linkedin.com/embed/feed/update/urn:li:share:6614667534266351616" height="520" width="250" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
-####<i>Parker H. Petit Institute for Bioengineering and Bioscience, 2018-2019</i>
+#### <i>Parker H. Petit Institute for Bioengineering and Bioscience, 2018-2019</i>
 I have mentored two Petit Undergraduate Research Schloars in the years 2018-2019 and helped introduce medical robotics research to two very talented and capable young researchers.
 In 2018, I helped my first scholar in the design and development of a simulated environment for the testing of the neuroendoscope tool in ROS and Unity. Her fellowship resulted in a conference paper submitted to IROS 2019, held in November 2019 in Macau China.
 <figure><img align="left" src="https://yashchitalia.github.io/images/Yamamoto_Chitalia_resized.jpg" alt="Photo" style="width: 500px; border-radius: 10px; padding: 10px 10px 10px 10px"/>
