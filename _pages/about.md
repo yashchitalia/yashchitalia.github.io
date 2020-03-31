@@ -9,7 +9,7 @@ redirect_from:
 ---
 <img align="right" src="https://yashchitalia.github.io/images/yash_chitalia_homepage.jpg" alt="Photo" style="width: 220px; border-radius: 10px; padding: 10px 10px 10px 10px"/>
 I am a Ph.D. student in the [Medical Robotics and Automation Laboratory](https://robomed.gatech.edu/) at the Georgia Institute of Technology.
-I am interested in the design, modeling, and control of surgical robots, especially miniature continuum (flexible) robotic tools. I have been to contribute
+I am interested in the design, modeling, and control of surgical robots, especially miniature continuum (flexible) robotic tools. I have been lucky to contribute
 to the development of surgical robots that are changing the landscape cardiovascular and neurosurgical procedures. I have had the great pleasure of working with some very brilliant collaborators 
 at the Georgia Institute of Technology that specialize in robotics, mechatronics, computer vision, modeling of mechanical systems, machine learning and haptics. 
 I also often collaborate with interventional radiologists, radiation oncologists from the [Emory Winship Cancer Institute](https://winshipcancer.emory.edu/index.html) and the [Emory University Department of Neurosurgery](http://neurosurgery.emory.edu/).
