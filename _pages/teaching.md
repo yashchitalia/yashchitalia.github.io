@@ -19,7 +19,10 @@ We successfully finished Kent's Petit mentorship with <b>a submission to Transac
 <figure><img align="left" src="https://yashchitalia.github.io/images/Yamamoto_Chitalia_resized.jpg" alt="Photo" style="width: 450px; border-radius: 1px; padding: 1px 1px 1px 1px"/>
 <figcaption>Kent Yamamoto, Petit Scholar for 2019 (<i>left</i>), Yash Chitalia, mentor for 2019 (<i>right</i>).</figcaption>
 </figure>
-
+<details>
+  <summary>Click to expand</summary>
+  whatever
+</details>
 ### ME 2110 - Head Teaching Assistant 
 #### <i>George W. Woodruff School of Mechanical Engineering, 2016-2018</i>
 I have been one of the two head teaching assistants leading a team of over 20-30 teaching assistants in the [ME 2110: Creative Decisions and Design](https://2110.me.gatech.edu/) class for two years between 2016-2018.
