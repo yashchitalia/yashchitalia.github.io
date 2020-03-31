@@ -6,7 +6,7 @@ author_profile: true
 ---
 {% include base_path %}
 ## Petit Mentor
-<iframe align = "right" src="https://www.linkedin.com/embed/feed/update/urn:li:share:6614667534266351616" height="520" width="250" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+<iframe align = "right" src="https://www.linkedin.com/embed/feed/update/urn:li:share:6614667534266351616" height="480" width="250" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
 #### <i>Parker H. Petit Institute for Bioengineering and Bioscience, 2018-2019</i>
 <figure><img align="left" src="https://yashchitalia.github.io/images/Yamamoto_Chitalia_resized.jpg" alt="Photo" style="width: 450px; border-radius: 1px; padding: 1px 1px 1px 1px"/>
 <figcaption>Kent Yamamoto, Petit Scholar for 2019 (<i>left</i>), Yash Chitalia, mentor for 2019 (<i>right</i>).</figcaption>
