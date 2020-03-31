@@ -20,4 +20,4 @@ We successfully finished Kent's Petit mentorship with <b>a submission to Transac
 <figcaption>Kent Yamamoto, Petit Scholar for 2019 (<i>left</i>), Yash Chitalia, mentor for 2019 (<i>right</i>).</figcaption>
 </figure>
 
-#### ME 2110 - Head Teaching Assistant 
+### ME 2110 - Head Teaching Assistant 
