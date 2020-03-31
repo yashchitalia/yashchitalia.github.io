@@ -7,9 +7,9 @@ author_profile: true
 
 {% include base_path %}
 
-<h3>Petit Mentor</h3>
+### Petit Mentor
 <iframe align = "right" src="https://www.linkedin.com/embed/feed/update/urn:li:share:6614667534266351616" height="520" width="250" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
-<h4><i>Parker H. Petit Institute for Bioengineering and Bioscience, 2018-2019</i></h4>
+####<i>Parker H. Petit Institute for Bioengineering and Bioscience, 2018-2019</i>
 I have mentored two Petit Undergraduate Research Schloars in the years 2018-2019 and helped introduce medical robotics research to two very talented and capable young researchers.
 For both of my Petit scholar mentees, their projects were related to design and development for the robotic pediatric neuroendoscopy project.
 In 2018, I helped my first scholar in the design and development of a simulated environment for the testing of the neuroendoscope tool in ROS and Unity. The student was successfully able to 
@@ -24,4 +24,4 @@ We successfully finished Kent's Petit mentorship with a submission to Transactio
 <figcaption>Kent Yamamoto, Petit Scholar for 2019 (<i>left</i>), Yash Chitalia, mentor for 2019 (<i>right</i>).</figcaption>
 </figure>
 
-<h3>ME 2110 - Head Teaching Assistant</h3>
+#### ME 2110 - Head Teaching Assistant 
