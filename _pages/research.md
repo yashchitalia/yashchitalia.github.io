@@ -14,7 +14,8 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 </figure>
 <div><img align="left" src="https://yashchitalia.github.io/images/New-Handheld-v4.gif" alt="Photo" style="width: 225px; border-radius: 1px; padding: 1px 20px 1px 1px"/></div>
 <div><img align="left" src="https://yashchitalia.github.io/images/handheld1_3753-300x225.jpg" alt="Photo" style="width: 225px; border-radius: 1px; padding: 1px 20px 1px 1px"/></div>
-
+<details>  
+<summary> Publications, Patents and  Media Coverage </summary><p>
 ### Publications:
 * <b>Y. Chitalia</b>, S. Jeong (co-first author), K. K. Yamamoto, J. J. Chern, and J.P. Desai, 
 “Modeling and Control of a Meso-scaleMulti-Joint Continuum Robot for Pediatric Neurosurgery,” in IEEE Transactions on Robotics, (under second round review)
@@ -28,3 +29,5 @@ International Symposium on Experimental Robotics, (pp.  24-33).  Springer,Cham.,
 * J. P. Desai,<b>Y. Chitalia</b>, S. Jeong, J. J. Chern, “Multi-port, steerable, and flexible robotic endoscopic tools for minimally invasiveprocedures,”<b>U.S. Patent Application No.  62/813,444, patent pending</b>, 2019
 ### Media Coverage:
 * [Steerable Robotic Instruments Could Help Pediatric Neurosurgeons](https://rh.gatech.edu/features/think-small#node-10970), <i>Research Horizons</i>, July 2019.
+</p>
+</details>  
