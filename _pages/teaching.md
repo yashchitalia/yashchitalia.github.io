@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 ### Petit Mentor
-<iframe align = "right" src="https://www.linkedin.com/embed/feed/update/urn:li:share:6614667534266351616" height="520" width="250" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+<iframe align = "right" src="https://www.linkedin.com/embed/feed/update/urn:li:share:6614667534266351616" height="580" width="250" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
 #### <i>Parker H. Petit Institute for Bioengineering and Bioscience, 2018-2019</i>
 I have mentored two Petit Undergraduate Research Schloars in the years 2018-2019 and helped introduce medical robotics research to two very talented and capable young researchers.
 In 2018, I helped my first scholar in the design and development of a simulated environment for the testing of the neuroendoscope tool in ROS and Unity. <b>Her fellowship resulted in a conference paper submitted 
