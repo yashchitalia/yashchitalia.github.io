@@ -4,7 +4,9 @@ title:
 permalink: /teaching/
 author_profile: true
 ---
+
 {% include base_path %}
+
 ## Petit Mentor
 <iframe align = "right" src="https://www.linkedin.com/embed/feed/update/urn:li:share:6614667534266351616" height="520" width="250" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
 #### <i>Parker H. Petit Institute for Bioengineering and Bioscience, 2018-2019</i>
