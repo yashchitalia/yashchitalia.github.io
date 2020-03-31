@@ -12,7 +12,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 <figure><img align="left" src="https://yashchitalia.github.io/images/neuro_banner_small.jpg" alt="Photo" style="width: 800px; border-radius: 1px; padding: 1px 1px 1px 1px"/>
 <figcaption>Image of meso-scale robotic pediatric neuroendoscope tool.</figcaption>
 </figure>
-<img align="left" src="https://yashchitalia.github.io/images/New-Handheld-v4.gif" alt="Photo" style="width: 250px; border-radius: 1px; padding: 1px 1px 1px 1px"/>
+<img align="left" src="https://yashchitalia.github.io/images/New-Handheld-v4.gif" alt="Photo" style="width: 250px; border-radius: 1px; padding: 1px 10px 1px 1px"/>
 #### Publications:
 * <b>Y. Chitalia</b>, S. Jeong (co-first author), K. K. Yamamoto, J. J. Chern, and J.P. Desai, 
 “Modeling and Control of a Meso-scaleMulti-Joint Continuum Robot for Pediatric Neurosurgery,” inIEEE Transactions on Robotics, (under second round review)
