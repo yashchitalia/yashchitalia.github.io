@@ -18,9 +18,7 @@ Kent Yamamoto, Petit Scholar for 2019 (<i>left</i>), Yash Chitalia, mentor for 2
 </figure>
 I have mentored two Petit Undergraduate Research Schloars in the years 2018-2019 and helped introduce medical robotics research to two very talented and capable young researchers. Both scholars have submitted/published papers to peer-reviewed conferences and journals.
 <details>
-<summary> 
-Click to expand 
-</summary>
+<summary>Click to expand</summary>
 <p>
 In 2018, I helped my first scholar in the design and development of a simulated environment for the testing of the neuroendoscope tool in ROS and Unity. <b>Her fellowship resulted in a conference paper submitted 
 to IROS 2019, held in November 2019 in Macau China.</b><br />
