@@ -10,6 +10,3 @@ author_profile: true
 {% include base_path %}
 ### Pediatric Neuroendoscope
 
-{% for post in site.publications.neuro reversed %}
-  {% include archive-single.html %}
-{% endfor %}
