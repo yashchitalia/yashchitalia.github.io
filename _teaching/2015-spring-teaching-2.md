@@ -1,9 +1,9 @@
 ---
-title: "Teaching experience 2"
+title: "Petit Mentor"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
+type: "Fellowship"
+permalink: /teaching/petit-mentor
+venue: "Georgia Institute of Technology, Parker H. Petit Institute for Bioengineering and Bioscience"
 date: 2015-01-01
 location: "City, Country"
 ---
