@@ -46,8 +46,10 @@ The guidewire makes use of a Femtosecond laser to etch notch joints into a Nitin
 ### Publications:
 * S. Jeong, <b>Y. Chitalia (co-first author)</b>, and J.P. Desai, “Design, Modeling, and Control of a Coaxially Aligned Steerable(COAST) Guidewire Robot,” in IEEE Robotics and Automation Letters, (under review)
 * <b>Y. Chitalia</b>, X. Wang and J. P. Desai, “Design, Modeling and Control of a 2-DoF Robotic Guidewire,”2018 IEEE International Conference on Robotics and Automation (ICRA), Brisbane, QLD, 2018, pp.  32-37.
+
 ### Patents:
 * J. P. Desai,<b>Y. Chitalia</b> “Systems and Methods for Steering Guidewires,” PCT Patent, <b>PCT/US2018/021784, patentpending</b>, 2019
 * J. P. Desai,<b>Y. Chitalia</b> “System, Method, and Apparatus for Active Control of Multiple Degrees-of-Freedom Micro-Scale Guidewires and Devices,” <b>U.S. Patent Application No.  62/469,570, patent pending,</b> 2017
+
 ### Media Coverage:
 * [Desai Secures $2.8 Million Grant to Develop Steerable Robotic Guidewire](https://petitinstitute.gatech.edu/news/desai-secures-28-million-grant-develop-steerable-robotic-guidewire)
