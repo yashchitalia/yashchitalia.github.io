@@ -20,7 +20,7 @@ The robotic pediatric neuroendoscope is a tendon-driven robotic tool with a hand
 The tool itself is a cylindrical tube of 1.93 mm (outer diameter) that has two notch joints etched into it with a Femtosecond laser. 
 Both joints of the robotic tool are in the same plane, allowing the robot to make S-shaped curves in any plane. 
 The plane of bending can further be changed by a rolling motion capability in the handheld controller. The resulting tool is controlled using a joystick located at the back end of the handheld controller. 
-Thus, the robotic tool and its controller are ergonomic in their design and fully compatible with existing endoscopes used in hydrocephalus cases.
+Thus, the robotic tool and its controller are ergonomic in their design and fully compatible with existing endoscopes used in hydrocephalus cases.<br />
 ### Publications:
 * <b>Y. Chitalia</b>, S. Jeong (co-first author), K. K. Yamamoto, J. J. Chern, and J.P. Desai, 
 “Modeling and Control of a Meso-scaleMulti-Joint Continuum Robot for Pediatric Neurosurgery,” in IEEE Transactions on Robotics, (under second round review)
