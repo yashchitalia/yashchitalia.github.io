@@ -15,7 +15,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 <div class="imageSet">
 <img align="left" src="https://yashchitalia.github.io/images/New-Handheld-v4.gif" alt="Photo" style="width: 225px; border-radius: 1px; padding: 1px 30px 1px 1px"/>
 <br>
-<img align="left" src="https://yashchitalia.github.io/images/handheld1_3753-300x225.jpg" alt="Photo" style="width: 225px; border-radius: 1px; padding: 1px 30px 1px 1px"/>
+<img src="https://yashchitalia.github.io/images/handheld1_3753-300x225.jpg" alt="Photo" style="width: 225px; border-radius: 1px; padding: 1px 30px 1px 1px"/>
 </div>
 The robotic pediatric neuroendoscope is a tendon-driven robotic tool with a handheld controller designed for minimally invasive surgeries for trating pediatric hydrocephalus. 
 The tool itself is a cylindrical tube of 1.93 mm (outer diameter) that has two notch joints etched into it with a Femtosecond laser. 
