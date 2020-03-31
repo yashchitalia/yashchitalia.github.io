@@ -21,3 +21,11 @@ We successfully finished Kent's Petit mentorship with <b>a submission to Transac
 </figure>
 
 ### ME 2110 - Head Teaching Assistant 
+#### <i>George W. Woodruff School of Mechanical Engineering, 2016-2018</i>
+I have been one of the two head teaching assistants leading a team of over 20-30 teaching assistants in the [ME 2110: Creative Decisions and Design](https://2110.me.gatech.edu/) class for two years between 2016-2018.
+In this class, I was responsible for teaching sophomore year ME students mechatronics, [machining (operating lathes, mills, CNC mills, drill press, band-saws, etc)](https://youtu.be/X69bVXh17b8), and the construction of a basic robot to participate in a [competition](https://youtu.be/8o-bAJySsp4) 
+held at the end of every semester. Each semester this class has approximately 200-300 students divided into about 60-70 teams. At the end of each term the teams compete with each other for a grand prize.
+My teams have won first prize in the competition and top points for ingenuity of their robot's designs.
+ME 2110 Compeition crowds |  Competition Stage
+:-------------------------:|:-------------------------:
+![](https://yashchitalia.github.io/images/me2110_1.jpg)  |  ![](https://yashchitalia.github.io/images/me2110_2.jpg)
