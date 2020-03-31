@@ -12,8 +12,8 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 <figure><img align="left" src="https://yashchitalia.github.io/images/neuro_banner_small.jpg" alt="Photo" style="width: 800px; border-radius: 1px; padding: 1px 1px 1px 1px"/>
 <figcaption>Image of meso-scale robotic pediatric neuroendoscope tool.</figcaption>
 </figure>
-<img align="left" src="https://yashchitalia.github.io/images/New-Handheld-v4.gif" alt="Photo" style="width: 225px; border-radius: 1px; padding: 1px 20px 1px 1px"/>
-<img align="left" src="https://yashchitalia.github.io/images/handheld1_3753-300x225.jpg" alt="Photo" style="width: 225px; border-radius: 1px; padding: 1px 20px 1px 1px"/>
+<div><img align="left" src="https://yashchitalia.github.io/images/New-Handheld-v4.gif" alt="Photo" style="width: 225px; border-radius: 1px; padding: 1px 20px 1px 1px"/></div>
+<div><img align="left" src="https://yashchitalia.github.io/images/handheld1_3753-300x225.jpg" alt="Photo" style="width: 225px; border-radius: 1px; padding: 1px 20px 1px 1px"/></div>
 
 ### Publications:
 * <b>Y. Chitalia</b>, S. Jeong (co-first author), K. K. Yamamoto, J. J. Chern, and J.P. Desai, 
