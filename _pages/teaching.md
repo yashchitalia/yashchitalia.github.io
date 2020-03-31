@@ -13,9 +13,9 @@ author_profile: true
 <figcaption>Kent Yamamoto, Petit Scholar for 2019 (<i>left</i>), Yash Chitalia, mentor for 2019 (<i>right</i>).</figcaption>
 </figure>
 <iframe align = "right" src="https://www.linkedin.com/embed/feed/update/urn:li:share:6614667534266351616" height="580" width="250" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+I have mentored two Petit Undergraduate Research Schloars in the years 2018-2019 and helped introduce medical robotics research to two very talented and capable young researchers. Both scholars have submitted/published papers to peer-reviewed conferences and journals.
 <details>
-  <summary>I have mentored two Petit Undergraduate Research Schloars in the years 2018-2019 and helped introduce medical robotics research to two very talented and capable young researchers. Both scholars have
-  submitted/published papers to peer-reviewed conferences and journals.</summary>
+  <summary> Click to expand </summary>
 In 2018, I helped my first scholar in the design and development of a simulated environment for the testing of the neuroendoscope tool in ROS and Unity. <b>Her fellowship resulted in a conference paper submitted 
 to IROS 2019, held in November 2019 in Macau China.</b><br />
 In 2019, this work was continued by the second Petit scholar (Mr. Kent Yamamoto, in the image above). Kent was responsible for designing a realistic phantom brain model from hydrogel and creating a simulated environment
