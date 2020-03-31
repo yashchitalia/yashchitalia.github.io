@@ -6,13 +6,12 @@ author_profile: true
 ---
 
 {% include base_path %}
-
+<iframe align = "right" src="https://www.linkedin.com/embed/feed/update/urn:li:share:6614667534266351616" height="580" width="250" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
 ### Petit Mentor
 #### <i>Parker H. Petit Institute for Bioengineering and Bioscience, 2018-2019</i>
 <figure><img align="left" src="https://yashchitalia.github.io/images/Yamamoto_Chitalia_resized.jpg" alt="Photo" style="width: 450px; border-radius: 1px; padding: 1px 1px 1px 1px"/>
 <figcaption>Kent Yamamoto, Petit Scholar for 2019 (<i>left</i>), Yash Chitalia, mentor for 2019 (<i>right</i>).</figcaption>
 </figure>
-<iframe align = "right" src="https://www.linkedin.com/embed/feed/update/urn:li:share:6614667534266351616" height="580" width="250" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
 I have mentored two Petit Undergraduate Research Schloars in the years 2018-2019 and helped introduce medical robotics research to two very talented and capable young researchers. Both scholars have submitted/published papers to peer-reviewed conferences and journals.
 <details>
   <summary> Click to expand </summary>
