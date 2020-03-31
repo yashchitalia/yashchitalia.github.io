@@ -28,6 +28,7 @@ Feel free to send an email to <code class="language-plaintext highlighter-rouge"
 <b>[01/2020]</b> Co-organizing workshop on ['Convergence of IP, Tech Transfer, and Translation, for Medical Robotics Research'](https://sites.google.com/view/2020-ismr-tech-transfer/home) at [ISMR 2020](http://www.ismr.gatech.edu/).<br />
 <b>[01/2020]</b> [Paper](https://ieeexplore.ieee.org/document/8963646) on robotic neuroendoscope design published in IEEE/ASME Transactions on Mechatronics journal.<br />
 <b>[11/2019]</b> Presented [paper](https://ieeexplore.ieee.org/document/8968186) on pediatric neuroendoscope at [IROS 2019](https://www.iros2019.org/) in Macau, China.<br />
+<b>[09/2019]</b> Robotic neuroendoscope research was highlighted by the incoming Georgia Tech president Dr. Angel Cabrera in [his institute address](https://youtu.be/PKn74QaDxJo?t=2813).<br />
 <b>[07/2019]</b> [News article](https://rh.gatech.edu/features/think-small#node-10970) on pediatric neuroendoscope published in Research Horizons magazine.<br />
 <b>[05/2019]</b> Invited speaker at the workshop on ['Open Challenges and State-of-the-Art in Control System Design and Technology Development for Surgical Robotic Systems'](https://sites.google.com/ualberta.ca/2019-icra-workshop/home?authuser=1) at [ICRA 2019])(https://www.icra2019.org/) in Montreal, Canada.<br />
 <b>[04/2019]</b> Our robotic guidewire project receives a [$2.8 Million grant](https://petitinstitute.gatech.edu/news/desai-secures-28-million-grant-develop-steerable-robotic-guidewire).<br />
