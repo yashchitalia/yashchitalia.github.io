@@ -14,6 +14,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 <figcaption>Image of meso-scale robotic pediatric neuroendoscope tool.</figcaption></figure>
 <div class="imageSet">
 <img align="left" src="https://yashchitalia.github.io/images/New-Handheld-v4.gif" alt="Photo" style="width: 225px; border-radius: 1px; padding: 1px 30px 1px 1px"/>
+<br>
 <img align="left" src="https://yashchitalia.github.io/images/handheld1_3753-300x225.jpg" alt="Photo" style="width: 225px; border-radius: 1px; padding: 1px 30px 1px 1px"/>
 </div>
 The robotic pediatric neuroendoscope is a tendon-driven robotic tool with a handheld controller designed for minimally invasive surgeries for trating pediatric hydrocephalus. 
@@ -35,3 +36,4 @@ International Symposium on Experimental Robotics, (pp.  24-33).  Springer,Cham.,
 ### Media Coverage:
 * [Steerable Robotic Instruments Could Help Pediatric Neurosurgeons](https://rh.gatech.edu/features/think-small#node-10970), <i>Research Horizons</i>, July 2019.
 
+## Robotic Guidewire
