@@ -56,8 +56,8 @@ See the papers below for more static models and controls details of the guidewir
 ## Miniature Force Sensor
 <img align="left" src="https://yashchitalia.github.io/images/Force_sensor_design.jpg" alt="Photo" style="width: 800px; border-radius: 1px; padding: 1px 1px 1px 1px"/>
 This work presents a photointerrupter based force sensing mechanism to implement a low-cost, high accuracy, and reliable sensor with a miniaturized design. 
-In previous literature, photointerrupter based force sensors have demonstrated a reasonable performance in a cost-effective manner, but have a narrow range of linear output and 
-are significantly susceptible to external disturbances. This makes it difficult to use these sensors in precision force measurement and feedback control especially in handheld medical robotics. 
+Most force sensors are either too bulky or if they are small, they usually have a narrow range of linear output and 
+are significantly vulnerable to external disturbances. This makes it difficult to use these sensors in precision force measurement and feedback control especially in handheld medical robotics. 
 The optimized geometry of the screen and a novel dual-screen arrangement are proposed to increase the linear range of the sensor output. 
 A dual-phototransistor signal acquisition is introduced to compensate the external disturbances and provides robust sensor output. 
 The sensor has the ability to measure forces up to 21 Newtons, 
