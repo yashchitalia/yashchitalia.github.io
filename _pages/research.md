@@ -10,11 +10,11 @@ author_profile: true
 You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=V6k-C_cAAAAJ&hl=en&oi=ao).
 ## Robotic Pediatric Neuroendoscope
 <img align="left" src="https://yashchitalia.github.io/images/neuro_banner_small.jpg" alt="Photo" style="width: 800px; border-radius: 1px; padding: 1px 1px 10px 1px"/>
-<img align="left" src="https://yashchitalia.github.io/images/neuro_all.gif" alt="Photo" style="width: 225px; border-radius: 1px; padding: 1px 30px 1px 1px"/>
+<img align="left" src="https://yashchitalia.github.io/images/neuro_all.gif" alt="Photo" style="width: 400px; border-radius: 1px; padding: 1px 30px 1px 1px"/>
 The robotic pediatric neuroendoscope is a tendon-driven robotic tool with a handheld controller designed for minimally invasive surgeries for treating pediatric hydrocephalus. 
-The tool itself is a cylindrical tube of 1.93 mm (outer diameter) with two notch joints micromachined within it using a femtosecond laser.
-Both joints of the robotic tool are in the same plane, allowing the robot to make S-shaped curves in any plane. 
-The plane of bending can further be changed by a rolling motion capability in the handheld controller. The resulting tool is controlled using a joystick located at the back end of the handheld controller. 
+The tool itself is a cylindrical tube of 1.93 mm (outer diameter) with two notch joints micromachined within it using a femtosecond laser (see laser setup and SEM image of joint to the left).
+Both joints of the robotic tool are in the same plane, allowing the robot to make S-shaped curves in any plane (GIF to the left). 
+The plane of bending can further be changed by a rolling motion capability in the handheld controller (see  CAD to the left). The resulting tool is controlled using a joystick located at the back end of the handheld controller. 
 Thus, the robotic tool and its controller are ergonomic in their design and fully compatible with existing endoscopes used in hydrocephalus cases.<br />
 ### Publications:
 * <b>Y. Chitalia</b>, S. Jeong (co-first author), K. K. Yamamoto, J. J. Chern, and J.P. Desai, 
