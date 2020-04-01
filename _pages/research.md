@@ -40,7 +40,8 @@ patent pending</b>, 2019
 <img align="left" src="https://yashchitalia.github.io/images/guidewire_all.gif" alt="Photo" style="width: 225px; border-radius: 1px; padding: 1px 30px 1px 1px"/>
 
 In this project, we have designed and analyzed a 0.4 mm single degree-of-freedom and a 0.78 mm two degree-of-freedom robotic guidewire for cardiovascular applications. 
-The guidewire makes use of a Femtosecond laser to etch notch joints into a Nitinol tube allowing it to bending in the plane of the notch joint with the application of a moment from a tendon. 
+The guidewire makes use of a Femtosecond laser to micromachine notch joints into a Nitinol tube allowing it to bending in the plane of the notch joint with the application of a moment from a tendon. 
+See the paper s below for more static models and controls details of the guidewire.
 ### Publications:
 * S. Jeong, <b>Y. Chitalia (co-first author)</b>, and J.P. Desai, “Design, Modeling, and Control of a Coaxially Aligned Steerable(COAST) Guidewire Robot,” in IEEE Robotics and Automation Letters, (under review)
 * <b>Y. Chitalia</b>, X. Wang and J. P. Desai, “Design, Modeling and Control of a 2-DoF Robotic Guidewire,”2018 IEEE International Conference on Robotics and Automation (ICRA), Brisbane, QLD, 2018, pp.  32-37.
