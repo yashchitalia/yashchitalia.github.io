@@ -68,7 +68,7 @@ The proposed model and sensing mechanisms are experimentally validated.
 * S. Jeong, <b>Y. Chitalia</b> and J. P. Desai, “Miniature Force Sensor based on Dual-photointerrupter with High Linearity and Disturbance Compensation,” in IEEE Sensors Journal.
 
 ## High Deflection Shape Sensing
-<img align="left" src="https://yashchitalia.github.io/images/control_system_website.png" alt="Photo" style="width: 225px; border-radius: 1px; padding: 1px 30px 1px 1px"/>
+<img align="left" src="https://yashchitalia.github.io/images/control_system_website.png" alt="Photo" style="width: 250px; border-radius: 1px; padding: 1px 30px 1px 1px"/>
 
 Endovascular and endoscopic surgical procedures require micro-scale and meso-scale continuum robotic tools to navigate complex anatomical structures. 
 Previous work has failed at achieving large deflections at micro-scale and meso-scale robots. In this work, we have developed a sensor by mounting an FBG fiber 
