@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=V6k-C_cAAAAJ&hl=en&oi=ao).
-## Pediatric Neuroendoscope
+## Robotic Pediatric Neuroendoscope
 <img align="left" src="https://yashchitalia.github.io/images/neuro_banner_small.jpg" alt="Photo" style="width: 800px; border-radius: 1px; padding: 1px 1px 10px 1px"/>
 <div class="imageSet">
 <img align="left" src="https://yashchitalia.github.io/images/New-Handheld-v4.gif" alt="Photo" style="width: 225px; border-radius: 1px; padding: 1px 30px 1px 1px"/>
@@ -65,7 +65,7 @@ The proposed model and sensing mechanisms are experimentally validated.
 ### Publications:
 * S. Jeong, <b>Y. Chitalia</b> and J. P. Desai, “Miniature Force Sensor based on Dual-photointerrupter with High Linearity and Disturbance Compensation,” in IEEE Sensors Journal.
 
-## High Deflection Shape Sensing
+## Large Deflection Shape Sensing - Continuum Robots
 <img align="left" src="https://yashchitalia.github.io/images/control_system_website.png" alt="Photo" style="width: 250px; border-radius: 1px; padding: 1px 30px 1px 1px"/>
 
 Endovascular and endoscopic surgical procedures require micro-scale and meso-scale continuum robotic tools to navigate complex anatomical structures. 
