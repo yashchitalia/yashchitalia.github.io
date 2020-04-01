@@ -70,13 +70,13 @@ The proposed model and sensing mechanisms are experimentally validated.
 ## High Deflection Shape Sensing
 <img align="left" src="https://yashchitalia.github.io/images/polished_gw_motion.gif" alt="Photo" style="width: 225px; border-radius: 1px; padding: 1px 30px 1px 1px"/>
 
-In this project, we have designed and analyzed a 0.4 mm single degree-of-freedom and a 0.78 mm two degree-of-freedom robotic guidewire for cardiovascular applications. 
-The guidewire makes use of a Femtosecond laser to etch notch joints into a Nitinol tube allowing it to bending in the plane of the notch joint with the application of a moment from a tendon. 
-### Publications:
-* S. Jeong, <b>Y. Chitalia (co-first author)</b>, and J.P. Desai, “Design, Modeling, and Control of a Coaxially Aligned Steerable(COAST) Guidewire Robot,” in IEEE Robotics and Automation Letters, (under review)
-* <b>Y. Chitalia</b>, X. Wang and J. P. Desai, “Design, Modeling and Control of a 2-DoF Robotic Guidewire,”2018 IEEE International Conference on Robotics and Automation (ICRA), Brisbane, QLD, 2018, pp.  32-37.
+Endovascular and endoscopic surgical procedures require micro-scale and meso-scale continuum robotic tools to navigate complex anatomical structures. 
+In numerous studies, fiber Bragg grating (FBG) based shape sensing has been used for measuring the deflection of continuum robots on larger scales, 
+but has proved to be a challenge for micro-scale and meso-scale robots with large deflections. In this work, we have developed a sensor by mounting an FBG fiber 
+within a micromachined nitinol tube whose neutral axis is shifted to one side due to the machining. This shifting of the neutral axis allows the FBG core to experience compressive 
+strain when the tube bends. The fabrication method of the sensor has been explicitly detailed and the sensor has been tested with two tendon-driven micro-scale and meso-scale continuum robots 
+with outer diameters of 0.41 mm and 1.93 mm respectively. The compact sensor allows repeatable and reliable estimates of the shape of both scales of robots with minimal hysteresis. 
 
-### Patents:
-* J. P. Desai,<b>Y. Chitalia</b> “Systems and Methods for Steering Guidewires,” PCT Patent, <b>PCT/US2018/021784, patentpending</b>, 2019
-* J. P. Desai,<b>Y. Chitalia</b> “System, Method, and Apparatus for Active Control of Multiple Degrees-of-Freedom Micro-Scale Guidewires and Devices,” <b>U.S. Patent Application No.  62/469,570, patent pending,</b> 2017
+### Publications:
+* <b>Y. Chitalia</b>, N. J. Deaton, S. Jeong, N. Rahman and J. P. Desai, “Towards FBG-Based Shape Sensing for Micro-Scale and Meso-Scale Continuum Robots With Large Deflection,” in IEEE Robotics and Automation Letters, vol.  5, no.  2, pp.1712-1719, April 2020.
 
