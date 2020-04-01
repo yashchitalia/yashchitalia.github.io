@@ -37,7 +37,7 @@ patent pending</b>, 2019
 * [Steerable Robotic Instruments Could Help Pediatric Neurosurgeons](https://rh.gatech.edu/features/think-small#node-10970), <i>Research Horizons</i>, July 2019.
 
 ## Robotic Guidewire
-<img align="left" src="https://yashchitalia.github.io/images/guidewire_all.gif" alt="Photo" style="width: 225px; border-radius: 1px; padding: 1px 30px 1px 1px"/>
+<img align="left" src="https://yashchitalia.github.io/images/guidewire_all.gif" alt="Photo" style="width: 350px; border-radius: 1px; padding: 1px 30px 1px 1px"/>
 
 In this project, we have designed and analyzed a 0.4 mm single degree-of-freedom and a 0.78 mm two degree-of-freedom robotic guidewire for cardiovascular applications. 
 The guidewire makes use of a Femtosecond laser to micromachine notch joints into a Nitinol tube allowing it to bending in the plane of the notch joint with the application of a moment from a tendon. 
