@@ -68,14 +68,13 @@ The proposed model and sensing mechanisms are experimentally validated.
 * S. Jeong, <b>Y. Chitalia</b> and J. P. Desai, “Miniature Force Sensor based on Dual-photointerrupter with High Linearity and Disturbance Compensation,” in IEEE Sensors Journal.
 
 ## High Deflection Shape Sensing
-<img align="left" src="https://yashchitalia.github.io/images/polished_gw_motion.gif" alt="Photo" style="width: 225px; border-radius: 1px; padding: 1px 30px 1px 1px"/>
+<img align="left" src="https://yashchitalia.github.io/images/control_system_website.png" alt="Photo" style="width: 225px; border-radius: 1px; padding: 1px 30px 1px 1px"/>
 
 Endovascular and endoscopic surgical procedures require micro-scale and meso-scale continuum robotic tools to navigate complex anatomical structures. 
-In numerous studies, fiber Bragg grating (FBG) based shape sensing has been used for measuring the deflection of continuum robots on larger scales, 
-but has proved to be a challenge for micro-scale and meso-scale robots with large deflections. In this work, we have developed a sensor by mounting an FBG fiber 
+Previous work has failed at achieving large deflections at micro-scale and meso-scale robots. In this work, we have developed a sensor by mounting an FBG fiber 
 within a micromachined nitinol tube whose neutral axis is shifted to one side due to the machining. This shifting of the neutral axis allows the FBG core to experience compressive 
-strain when the tube bends. The fabrication method of the sensor has been explicitly detailed and the sensor has been tested with two tendon-driven micro-scale and meso-scale continuum robots 
-with outer diameters of 0.41 mm and 1.93 mm respectively. The compact sensor allows repeatable and reliable estimates of the shape of both scales of robots with minimal hysteresis. 
+strain when the tube bends. The compact sensor allows repeatable and reliable estimates of the shape of both scales of robots with minimal hysteresis. This sensor can measure curvatures
+as high as 145 /m, and can estimate shape even in the presence of external forces or kinematic uncertainties (see image (c) to the left).
 
 ### Publications:
 * <b>Y. Chitalia</b>, N. J. Deaton, S. Jeong, N. Rahman and J. P. Desai, “Towards FBG-Based Shape Sensing for Micro-Scale and Meso-Scale Continuum Robots With Large Deflection,” in IEEE Robotics and Automation Letters, vol.  5, no.  2, pp.1712-1719, April 2020.
