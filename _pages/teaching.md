@@ -3,6 +3,7 @@ layout: single
 title: Teaching and Mentoring
 permalink: /teaching/
 author_profile: true
+analytics: true
 ---
 
 {% include base_path %}
