@@ -97,13 +97,19 @@ The name of the chat-bot I have designed is <b>Jack Holmes</b>, and this agent i
 * What is the <b>likelihood of getting an A grade</b> in KBAI? 
 * What's the <b>chance of passing</b> Machine Learning?
 * What's the <b>average GPA</b> of a student taking Machine Learning for Trading?<br />
+
+
 The student can also answer subjective questions based on preferences they have given at the start of the chat with the student. Here are some samples of the subjective questions:
 I have attempted to answer the following questions:
 * Is KBAI <b>better for me</b> than AI?
 * Is CS 6400 <b>easier</b> than CS 6440?
-* Plan my Online Masters.
+* Plan my Online Masters.<br />
+
+
 Similarly, I have also used the notion of context to answer the following types of questions:
 * Why did you say that?
 * Why did you infer that?
 * Analyze that.<br />
+
+
 Last, the agent can analyze and explain its own 
