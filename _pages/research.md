@@ -81,7 +81,7 @@ as high as 145 /m, and can estimate shape even in the presence of external force
 
 ## Class Project: CS 7637 Knowledge Based AI
 <img align="left" src="https://yashchitalia.github.io/images/jack_holmes.jpg" alt="Photo" style="width: 800px; border-radius: 1px; padding: 1px 30px 1px 1px"/>
-I took a class called CS 7637: Knowledge Based AI in Fall 2016 (one of my last classes in my major at Georgia Tech). They were experimenting with a new class project of a chat-bot for GT students in that semester.
+I took a class called CS 7637: Knowledge Based AI in Fall 2016. They were experimenting with a new class project of a chat-bot for GT students in that semester.
 A select few students were given the option to build an agent that tackles some of the problems incoming CS students face. I decided I was going to focus on an agent that answers the questions of Online Masters 
 students at Georgia Tech. Here are some details about the robot:
 The name of the chat-bot I have designed is <b>Jack Holmes</b>, and this agent is able to handle the following types of queries from the user.
