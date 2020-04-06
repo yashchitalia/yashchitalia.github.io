@@ -4,6 +4,9 @@ title:
 permalink: /research/
 author_profile: true
 analytics: true
+markdown: kramdown
+kramdown:
+	parse_block_html: true
 ---
 
 {% include base_path %}
