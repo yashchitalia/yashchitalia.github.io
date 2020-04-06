@@ -79,3 +79,30 @@ as high as 145 /m, and can estimate shape even in the presence of external force
 ### Publications:
 * <b>Y. Chitalia</b>, N. J. Deaton, S. Jeong, N. Rahman and J. P. Desai, “Towards FBG-Based Shape Sensing for Micro-Scale and Meso-Scale Continuum Robots With Large Deflection,” in IEEE Robotics and Automation Letters, vol.  5, no.  2, pp.1712-1719, April 2020.
 
+## Class Project: CS 7637 Knowledge Based AI
+<img align="left" src="https://yashchitalia.github.io/images/jack_holmes.jpg" alt="Photo" style="width: 250px; border-radius: 1px; padding: 1px 30px 1px 1px"/>
+I took a class called CS 7637: Knowledge Based AI in Fall 2016 (one of my last classes in my major at Georgia Tech). They were experimenting with a new class project of a chat-bot for GT students in that semester.
+A select few students were given the option to build an agent that tackles some of the problems incoming CS students face. I decided I was going to focus on an agent that answers the questions of Online Masters 
+students at Georgia Tech. Here are some details about the robot:
+The name of the chat-bot I have designed is <b>Jack Holmes</b>, and this agent is able to handle the following types of queries from the user.
+<b>Note:</b> The agent can also handle various variants of the following questions:
+        * What are the <b>prerequisites</b> for AI?
+        * What is the <b>required reading material</b> for the Embedded Systems class?
+        * What is the <b>grading policy</b> for Data and Visual Analytics?
+        * Who is the <b>instructor</b> for CS 6300?
+        * What is CSE 6242 <b>about</b>?
+        * What <b>computer do I need</b> to watch KBAI lectures?
+        * What is the <b>course name</b> of CS 6262?
+        * What is the <b>course number</b> of Artificial Intelligence?
+        * What is the <b>likelihood of getting an A grade</b> in KBAI? 
+        * What's the <b>chance of passing</b> Machine Learning?
+        * What's the <b>average GPA</b> of a student taking Machine Learning for Trading? 
+The student can also answer subjective questions based on preferences they have given at the start of the chat with the student. Here are some samples of the subjective questions:
+I have attempted to answer the following questions:
+  * Is KBAI <b>better for me</b> than AI?
+  * Is CS 6400 <b>easier</b> than CS 6440?
+  * Plan my Online Masters.
+Similarly, I have also used the notion of context to answer the following types of questions:
+  * Why did you say that?
+  * Why did you infer that?
+  * Analyze that.
