@@ -111,5 +111,4 @@ Similarly, I have also used the notion of context to answer the following types 
 * Why did you infer that?
 * Analyze that.<br />
 
-
-Last, the agent can analyze and explain its own 
+I was heavily inspired by the television Sci-fi show called <b>Westworld</b>, where the robot programmers often use a similar technique to debug their robots (figure \ref{fig:westworld}).
