@@ -17,7 +17,7 @@ bending lengths. Therefore the guidewire can be used in surgical procedures invo
 ### Publications:
 * S. Jeong, <b>Y. Chitalia (co-first author)</b>, and J.P. Desai, “Design, Modeling, and Control of a Coaxially Aligned Steerable(COAST) Guidewire Robot,” in IEEE Robotics and Automation Letters, (under review)
 ### Patents:
-* J. P. Desai, Y. Chitalia, S. Jeong, “System, Method, And Apparatus For The Control Of Multiple Degrees-Of-Freedom Bending And The Bending Length Of A Coaxially Aligned Robotically Steerable Guidewire,” Provisional patent, 63/013425 , 2020
+* J. P. Desai, <b>Y. Chitalia</b>, S. Jeong, “System, Method, And Apparatus For The Control Of Multiple Degrees-Of-Freedom Bending And The Bending Length Of A Coaxially Aligned Robotically Steerable Guidewire,” Provisional patent, 63/013425 , 2020
 
 
 
