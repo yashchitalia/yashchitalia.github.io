@@ -9,6 +9,18 @@ analytics: true
 {% include base_path %}
 
 You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=V6k-C_cAAAAJ&hl=en&oi=ao).
+## COAST Robotic Guidewire
+<img align="left" src="https://yashchitalia.github.io/images/coast_gw.gif" alt="Photo" style="width: 300px; border-radius: 1px; padding: 1px 30px 1px 1px"/>
+The Co-Axially Aligned STeerable (COAST) guidewire (PATENT PENDING) is the newest version of a robotically steerable guidewire with an outer diameter of 0.4 mm. The guidewire has a single degree-of-freedom, and demonstrates follow-the-leader
+motion along with a feed-forward mode. The guidewire is able to achieve independent control of bending curvature and bending length. This allows the guidewire to reach extremely high curvatures at very small 
+bending lengths. Therefore the guidewire can be used in surgical procedures involving pediatric carotid arteries, peripheral artery disease procedures, or procedures involving navigating around the aortic bifurcation or the aortic arch.
+### Publications:
+* S. Jeong, <b>Y. Chitalia (co-first author)</b>, and J.P. Desai, “Design, Modeling, and Control of a Coaxially Aligned Steerable(COAST) Guidewire Robot,” in IEEE Robotics and Automation Letters, (under review)
+
+
+
+
+
 ## Robotic Pediatric Neuroendoscope
 <img align="left" src="https://yashchitalia.github.io/images/neuro_banner_small.jpg" alt="Photo" style="width: 800px; border-radius: 1px; padding: 1px 1px 10px 1px"/>
 <img align="left" src="https://yashchitalia.github.io/images/neuro_all.gif" alt="Photo" style="width: 300px; border-radius: 1px; padding: 1px 30px 1px 1px"/>
@@ -44,7 +56,6 @@ In this project, we have designed and analyzed a 0.4 mm single degree-of-freedom
 The guidewire makes use of a Femtosecond laser to micromachine notch joints into a Nitinol tube allowing it to bending in the plane of the notch joint with the application of a moment from a tendon. 
 See the papers below for more static models and controls details of the guidewire.
 ### Publications:
-* S. Jeong, <b>Y. Chitalia (co-first author)</b>, and J.P. Desai, “Design, Modeling, and Control of a Coaxially Aligned Steerable(COAST) Guidewire Robot,” in IEEE Robotics and Automation Letters, (under review)
 * <b>Y. Chitalia</b>, X. Wang and J. P. Desai, “Design, Modeling and Control of a 2-DoF Robotic Guidewire,”2018 IEEE International Conference on Robotics and Automation (ICRA), Brisbane, QLD, 2018, pp.  32-37.
 
 ### Patents:
