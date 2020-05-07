@@ -15,8 +15,10 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 The Co-Axially Aligned STeerable (COAST) guidewire (PATENT PENDING) is the newest version of a robotically steerable guidewire with an outer diameter of 0.4 mm. The guidewire has a single degree-of-freedom, and demonstrates follow-the-leader
 motion along with feed-forward motion. The guidewire is able to achieve high curvatures at varying bending lengths. Therefore the guidewire can be used in minimally invasive surgical procedures involving pediatric carotid arteries, 
 peripheral artery disease procedures, or procedures involving navigating around the aortic bifurcation or the aortic arch.
+
 ### Publications:
 * S. Jeong, <b>Y. Chitalia (co-first author)</b>, and J.P. Desai, “Design, Modeling, and Control of a Coaxially Aligned Steerable(COAST) Guidewire Robot,” in IEEE Robotics and Automation Letters, (under review)
+
 ### Patents:
 * J. P. Desai, <b>Y. Chitalia</b>, S. Jeong, “System, Method, And Apparatus For The Control Of Multiple Degrees-Of-Freedom Bending And The Bending Length Of A Coaxially Aligned Robotically Steerable Guidewire,” Provisional patent, 63/013425 , 2020
 
