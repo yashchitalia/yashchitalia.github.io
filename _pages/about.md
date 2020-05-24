@@ -22,7 +22,7 @@ Feel free to send an email to <code class="language-plaintext highlighter-rouge"
 
 
 ### News
-<b>[05/2020]</b> Successfully presented Ph.D. proposal to the Ph.D. committee.
+<b>[05/2020]</b> Successfully presented Ph.D. proposal to the Ph.D. committee.<br />
 <b>[02/2020]</b> [Paper](https://ieeexplore.ieee.org/document/9003240) on a miniature force sensor is published in IEEE Sensors journal.<br />
 <b>[01/2020]</b> [Paper](https://ieeexplore.ieee.org/abstract/document/8972454) on a micro-scale large deflection shape sensor published in IEEE Robotics and Automation - Letters journal.<br />
 <b>[01/2020]</b> Conference paper on ultrasound guided guidewire accepted at [ISMR 2020](http://www.ismr.gatech.edu/).<br />
