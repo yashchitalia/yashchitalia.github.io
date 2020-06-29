@@ -17,8 +17,7 @@ motion along with feed-forward motion. The guidewire is able to achieve high cur
 peripheral artery disease procedures, or procedures involving navigating around the aortic bifurcation or the aortic arch.
 
 ### Publications:
-* S. Jeong, <b>Y. Chitalia (co-first author)</b>, and J.P. Desai, “Design, Modeling, and Control of a Coaxially Aligned Steerable(COAST) Guidewire Robot,” in IEEE Robotics and Automation Letters, (accepted)
-
+* S. Jeong, <b>Y. Chitalia (co-first author)</b>, and J.P. Desai, “Design, Modeling, and Control of a Coaxially Aligned Steerable (COAST) Guidewire Robot,” in IEEE Robotics and Automation Letters. 10.1109/LRA.2020.3004782
 ### Patents:
 * J. P. Desai, <b>Y. Chitalia</b>, S. Jeong, “System, Method, And Apparatus For The Control Of Multiple Degrees-Of-Freedom Bending And The Bending Length Of A Coaxially Aligned Robotically Steerable Guidewire,” Provisional patent, 63/013425 , 2020
 
