@@ -36,7 +36,7 @@ Thus, the robotic tool and its controller are ergonomic in their design and full
 
 ### Publications:
 * <b>Y. Chitalia</b>, S. Jeong (co-first author), K. K. Yamamoto, J. J. Chern, and J.P. Desai, 
-“Modeling and Control of a Meso-scaleMulti-Joint Continuum Robot for Pediatric Neurosurgery,” in IEEE Transactions on Robotics, (under second round review)
+“Modeling and Control of a Meso-scaleMulti-Joint Continuum Robot for Pediatric Neurosurgery,” in IEEE Transactions on Robotics, (accepted)
 * <b>Y. Chitalia</b>, S. Jeong, N. Deaton, J. J. Chern and J. P. Desai, “Design and Kinematics Analysis of a Robotic PediatricNeuroendoscope Tool Body,” in IEEE/ASME Transactions on Mechatronics.
 * <b>Y. Chitalia</b>, S. Jeong, J. Bok, V. Nguyen, S. Melkote, J. J. Chern, J. P. Desai, “Towards the Design and Development of aPediatric Neuroendoscope Tool,”
 2019 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS),Macau, China, 2019, pp.  2998-3004.
