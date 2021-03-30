@@ -22,7 +22,7 @@ Feel free to send an email to <code class="language-plaintext highlighter-rouge"
 
 
 ### News
-<b>[03/2021]</b> Invited talk to Siemens Healhineers on the 'Design, Modeling and Control of Micro-scale and Meso-scale Continuum Robotics.'<br />
+<b>[03/2021]</b> Invited talk to Siemens Healthineers on the 'Design, Modeling and Control of Micro-scale and Meso-scale Continuum Robotics.'<br />
 <b>[10/2020]</b> Journal paper on robotic neuroendoscope published to [T-RO (Transactions on Robotics)](https://ieeexplore.ieee.org/document/9248011)<br />
 <b>[10/2020]</b> Conference paper on robotic brachytherapy needle accepted at [ISER 2020](http://iser2020.org/)<br />
 <b>[06/2020]</b> [Paper](https://ieeexplore.ieee.org/document/9126186) on COAST robotic guidewire with 0.4 mm outer diameter published in IEEE RA-L journal.<br />
