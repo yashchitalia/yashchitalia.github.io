@@ -22,6 +22,7 @@ Feel free to send an email to <code class="language-plaintext highlighter-rouge"
 
 
 ### News
+<b>[07/2021]</b> Two of my inventions: the [COAST Guidewire Robot](https://licensing.research.gatech.edu/technology/robotically-steerable-guidewire-improved-vascular-intervention) and [Robotic Pediatric Neuro-endoscope](https://licensing.research.gatech.edu/technology/steerable-and-flexible-robotic-endoscopic-tool-instrument-changing-system) are available for licensing. <br />
 <b>[06/2021]</b> [Ph.D. dissertation defense](http://www2.me.gatech.edu/theses/summary.asp?db=3&LASTNAME=Chitalia&FIRSTNAME=Yash%20Chetan) ~~announced for June 30, 2021 (Wednesday)~~ successfully conducted. <br />
 <b>[06/2021]</b> Selected to be part of the [2021 RSS (Robotics: Science and Systems) Pioneers](https://sites.google.com/view/rsspioneers2021) cohort. <br />
 <b>[04/2021]</b> Selected to be a [2022 Gordon Research Seminar](https://www.grc.org/robotics-grs-conference/2022/) Speaker and Host.<br />
