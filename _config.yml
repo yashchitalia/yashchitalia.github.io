@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "Yash Chitalia"
 title_separator          : "-"
-name                     : &name "Yash Chitalia"
-description              : &description "Ph.D. candidate at the Georgia Institute of Technology"
+name                     : &name "Yash Chitalia, Ph.D."
+description              : &description "Georgia Insitute of Technology"
 url                      : https://yashchitalia.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yashchitalia.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Yash Chitalia"
   avatar           : "profile.jpg"
-  bio              : "Ph.D. student in the Medical Robotics and Automation (RoboMed) Laboratory at the Georgia Institute of Technology."
-  location         : "Atlanta, GA, United States"
+  bio              : "Incoming Research Fellow, Harvard Medical School and Boston Children's Hospital."
+  location         : "Boston, MA, United States"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=Chitalia+Y%5BAuthor%5D"
   googlescholar    : "https://scholar.google.com/citations?user=V6k-C_cAAAAJ"
