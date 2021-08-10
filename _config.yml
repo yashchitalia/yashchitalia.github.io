@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yash Chitalia"
 title_separator          : "-"
 name                     : &name "Yash Chitalia"
-description              : &description "Georgia Insitute of Technology"
+description              : &description "Harvard Medical School and Boston Children's Hospital"
 url                      : https://yashchitalia.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yashchitalia.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Yash Chitalia"
   avatar           : "profile.jpg"
-  bio              : "Incoming Research Fellow, Harvard Medical School and Boston Children's Hospital."
+  bio              : "Research Fellow, Harvard Medical School and Boston Children's Hospital."
   location         : "Boston, MA, United States"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=Chitalia+Y%5BAuthor%5D"
   googlescholar    : "https://scholar.google.com/citations?user=V6k-C_cAAAAJ"
-  email            : "yashc@gatech.edu"
+  email            : "chitalia.yc@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
