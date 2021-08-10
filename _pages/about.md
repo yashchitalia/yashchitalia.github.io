@@ -9,14 +9,16 @@ redirect_from:
   - /about.html
 ---
 <img align="right" src="https://yashchitalia.github.io/images/yash_chitalia_homepage.jpg" alt="Photo" style="width: 220px; border-radius: 10px; padding: 10px 10px 10px 10px"/>
-I am an incoming Research Fellow at the Harvard Medical School and Boston Children's Hospital. I graduated with a Ph.D. from the [Medical Robotics and Automation Laboratory](https://robomed.gatech.edu/) at the Georgia Institute of Technology.
-I am interested in the design, modeling, and control of surgical robots, especially miniature continuum (flexible) robotic tools. I have been lucky to collaborate with experts at Georgia Tech in robotics, 
-mechatronics, computer vision, modeling of mechanical systems, machine learning and haptics. I also often collaborate with interventional radiologists, radiation oncologists and neurosurgeons 
-from the [Emory Winship Cancer Institute](https://winshipcancer.emory.edu/index.html) and the [Emory University Department of Neurosurgery](http://neurosurgery.emory.edu/).
+I am a Research Fellow in Cardiac Surgery at the Harvard Medical School and Boston Children's Hospital, where I work with Dr. Pierre Dupont in the [Pediatric Cardiac Bioengineering Lab](http://robotics.tch.harvard.edu/main/index.php). 
+I am interested in the design, modeling, and control of surgical robots, especially miniature continuum (flexible) robotic tools. 
 
-Before joining the lab, I also briefly worked on generating haptic datasets for [robotic hospital beds](http://pwp.gatech.edu/hrl/autobed-a-web-controlled-robotic-bed/) 
+I graduated with a Ph.D. from the [Medical Robotics and Automation Laboratory](https://robomed.gatech.edu/) at the Georgia Institute of Technology, where I worked on Robotic Guidewires and Neuro-endoscopes. I have been lucky to collaborate with experts at Georgia Tech in robotics, 
+mechatronics, computer vision, modeling of mechanical systems, machine learning and haptics. I have also collaborated with interventional radiologists, radiation oncologists and neurosurgeons 
+from the [Emory Winship Cancer Institute](https://winshipcancer.emory.edu/index.html) and the [Emory University Department of Neurosurgery](http://neurosurgery.emory.edu/). I also briefly worked on generating haptic datasets for [robotic hospital beds](http://pwp.gatech.edu/hrl/autobed-a-web-controlled-robotic-bed/) 
 that can sense the pose of the occupant for collaborating with [PR2 robots](http://pwp.gatech.edu/hrl/wp-content/uploads/sites/231/2016/07/collaboration-robotic-bed.pdf). 
 I have been fortunate to have worked on embedded system software at Lutron Electronics and designing control policies for UAVs and Ford vehicles at the University of Michigan.
+
+In Fall 2022, I will head the HEAlthcare Robotics and Telesurgery (HEART) Laboratory at the University of Louisville as an Assistant Professor of Mechanical Engineering.
 
 Feel free to send an email to <code class="language-plaintext highlighter-rouge">yashc[at]gatech[dot]edu</code> for any questions about my research.
 
