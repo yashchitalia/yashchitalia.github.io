@@ -18,7 +18,7 @@ from the [Emory Winship Cancer Institute](https://winshipcancer.emory.edu/index.
 
 In Fall 2022, I will head the HEAlthcare Robotics and Telesurgery (HEART) Laboratory at the University of Louisville as an Assistant Professor of Mechanical Engineering.
 
-Feel free to send an email to <code class="language-plaintext highlighter-rouge">yashc[at]gatech[dot]edu</code> for any questions about my research.
+Feel free to send an email to <code class="language-plaintext highlighter-rouge">Yash.Chitalia[at]childrens[dot]harvard[dot]edu</code> for any questions about my research.
 
 
 ### News
