@@ -21,8 +21,10 @@ In Fall 2022, I will head the HEAlthcare Robotics and Telesurgery (HEART) Labora
 Feel free to send an email to <code class="language-plaintext highlighter-rouge">Yash.Chitalia[at]childrens[dot]harvard[dot]edu</code> for any questions about my research.
 
 ### Updates
-I have two openinings for highly motivated Ph.D. students for my research group, the HEAlhcare Robotics and Telesurgery (HEART) Laboratory, at the University of Louisville. This laboratory will explore, analyze, and apply medical robots to save lives.
-If playing with state-of-the-art 3D Printers, Micro-machining laser cutters, Raspberry Pi's and Jetsons is your type of thing, we're looking for you! Reach out to me about applying to my lab.
+I have two openinings for highly motivated Ph.D. students in my future research team, the HEAlhcare Robotics and Telesurgery (HEART) Laboratory, at the University of Louisville. This laboratory will explore, analyze, and apply medical robots to save lives.
+If playing with state-of-the-art 3D Printers, laser cutters, Raspberry Pi's and NVIDIA Jetsons is your type of thing, and you'd like to make a Ph.D. sized dent in the universe, we're looking for you! 
+
+Reach out to me about applying for these positions at the email above.
 
 ### News
 <b>[07/2021]</b> Two of my inventions: the [COAST Guidewire Robot](https://licensing.research.gatech.edu/technology/robotically-steerable-guidewire-improved-vascular-intervention) and [Robotic Pediatric Neuro-endoscope](https://licensing.research.gatech.edu/technology/steerable-and-flexible-robotic-endoscopic-tool-instrument-changing-system) are available for licensing. <br />
