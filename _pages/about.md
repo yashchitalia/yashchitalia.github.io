@@ -20,11 +20,11 @@ In Fall 2022, I will head the HEAlthcare Robotics and Telesurgery (HEART) Labora
 
 Feel free to send an email to <code class="language-plaintext highlighter-rouge">Yash.Chitalia[at]childrens[dot]harvard[dot]edu</code> for any questions about my research.
 
-### Updates
+### Lab Openings Announcement
 I have two openinings for highly motivated Ph.D. students in my future research team, the HEAlthcare Robotics and Telesurgery (HEART) Laboratory, at the University of Louisville. 
 If playing with state-of-the-art 3D Printers, laser cutters, Raspberry Pi's and NVIDIA Jetsons piques your interest, and you'd like to make a Ph.D. sized dent in the universe, we're looking for you! 
 
-Reach out to me about applying for these positions at <code class="language-plaintext highlighter-rouge">Yash.Chitalia[at]childrens[dot]harvard[dot]edu</code>. Feel free to include links to websites showcasing your prior work, or attach your CV.
+Reach out to me about applying for these positions at <code class="language-plaintext highlighter-rouge">yash.chitalia[at]louisville[dot]edu</code>. Feel free to include links to websites showcasing your prior work, or attach your CV.
 
 ### News
 <b>[11/2021]</b> Co-organized a workshop on [Dexterous and Continuum robot shape sensing](https://sites.google.com/view/2021-ismr-workshop-sensing/home) at IEEE ISMR 2021 in Atlanta, GA, featuring a spectacular line-up of speakers. <br />
