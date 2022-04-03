@@ -27,8 +27,8 @@ If playing with state-of-the-art 3D Printers, laser cutters, Raspberry Pi's and 
 Reach out to me about applying for these positions at <code class="language-plaintext highlighter-rouge">yash.chitalia[at]louisville[dot]edu</code>. Feel free to include links to websites showcasing your prior work, or attach your CV.
 
 ### News
-<b>[03/2022]</b> Two papers accepted at the 2022 Hamlyn Symposium on Medical Robotics (HSMR 2022).
-<b>[02/2022]</b> [Journal paper](https://ieeexplore.ieee.org/abstract/document/9722894) on bionic implant removal published in IEEE-TMRB.
+<b>[03/2022]</b> Two papers accepted at the 2022 Hamlyn Symposium on Medical Robotics (HSMR 2022).<br />
+<b>[02/2022]</b> [Journal paper](https://ieeexplore.ieee.org/abstract/document/9722894) on bionic implant removal published in IEEE-TMRB.<br />
 <b>[11/2021]</b> Co-organized a workshop on [Dexterous and Continuum robot shape sensing](https://sites.google.com/view/2021-ismr-workshop-sensing/home) at IEEE ISMR 2021 in Atlanta, GA, featuring a spectacular line-up of speakers. <br />
 <b>[10/2021]</b> Invited talk at [Cornell Robotics Seminar](https://robotics.cornell.edu/events/seminars/).<br />
 <b>[07/2021]</b> Two of my inventions: the [COAST Guidewire Robot](https://licensing.research.gatech.edu/technology/robotically-steerable-guidewire-improved-vascular-intervention) and [Robotic Pediatric Neuro-endoscope](https://licensing.research.gatech.edu/technology/steerable-and-flexible-robotic-endoscopic-tool-instrument-changing-system) are available for licensing. <br />
