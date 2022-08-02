@@ -16,13 +16,12 @@ Prior to my faculty appointment, I was a Research Fellow in Cardiac Surgery at t
 mechatronics, computer vision, modeling of mechanical systems, machine learning and haptics. I have also collaborated with interventional radiologists, radiation oncologists and neurosurgeons 
 from the [Emory Winship Cancer Institute](https://winshipcancer.emory.edu/index.html) and the [Emory University Department of Neurosurgery](http://neurosurgery.emory.edu/).
 
-Feel free to send an email to <code class="language-plaintext highlighter-rouge">Yash.Chitalia[at]childrens[dot]harvard[dot]edu</code> for any questions about my research.
+Feel free to send an email to <code class="language-plaintext highlighter-rouge">yash.chitalia[at]louisville[dot]edu</code> for any questions about my research.
 
 ### Lab Openings Announcement
 I have ~~two openinings~~ for highly motivated Ph.D. students in my research team, the HEAlthcare Robotics and Telesurgery (HEART) Laboratory. 
 If playing with state-of-the-art 3D Printers, laser cutters, Raspberry Pi's and NVIDIA Jetsons piques your interest, and you'd like to make a Ph.D. sized dent in the universe, we're looking for you!
 
-~~Reach out to me about applying for these positions at <code class="language-plaintext highlighter-rouge">yash.chitalia[at]louisville[dot]edu</code>. Feel free to include links to websites showcasing your prior work, or attach your CV.
 ### News
 <b>[03/2022]</b> Two papers accepted at the 2022 Hamlyn Symposium on Medical Robotics (HSMR 2022).<br />
 <b>[02/2022]</b> [Journal paper](https://ieeexplore.ieee.org/abstract/document/9722894) on bionic implant removal published in IEEE-TMRB.<br />
