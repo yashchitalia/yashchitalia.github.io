@@ -19,7 +19,7 @@ from the [Emory Winship Cancer Institute](https://winshipcancer.emory.edu/index.
 Feel free to send an email to <code class="language-plaintext highlighter-rouge">yash.chitalia[at]louisville[dot]edu</code> for any questions about my research.
 
 ### Lab Openings Announcement
-I have ~~two openinings~~ for highly motivated Ph.D. students in my research team, the [HEAlthcare Robotics and Telesurgery (HEART) Laboratory](https://hrtlab.github.io/). 
+I have ~~two~~ one openings for highly motivated Ph.D. students in my research team, the [HEAlthcare Robotics and Telesurgery (HEART) Laboratory](https://hrtlab.github.io/). 
 If playing with state-of-the-art 3D Printers, laser cutters, Raspberry Pi's and NVIDIA Jetsons piques your interest, and you'd like to make a Ph.D. sized dent in the universe, we're looking for you!
 
 ### News
