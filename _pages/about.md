@@ -26,9 +26,9 @@ If playing with state-of-the-art 3D Printers, laser cutters, Raspberry Pi's and 
 ### News
 <b>[11/2023]</b> Invited speaker at University of Louisville Health - Neurosurgery. <br />
 <b>[10/2023]</b> Invited speaker at the [Duke Medical Robotics Symposium](https://sites.duke.edu/dukemedicalroboticssymposium/).<br />
-<b>[10/2023]</b> Organized a workshop on [Data vs. Model in Medical Robotics] (https://medrob-workshop.github.io/) at IROS 2023. <br />
+<b>[10/2023]</b> Organized a workshop on [Data vs. Model in Medical Robotics](https://medrob-workshop.github.io/) at IROS 2023. <br />
 <b>[09/2023] </b> [Paper on Robotic Neuroendoscope](https://www.science.org/doi/abs/10.1126/scirobotics.adg6042) published in Science Robotics! 
-<b>[09/2023]</b> HeaRT Lab doctoral student, Behnam Moradkhani, presents our first conference paper at [CRAS 2023] (https://cras-eu.org/cras-2023/), happening in Paris, France.<br />
+<b>[09/2023]</b> HeaRT Lab doctoral student, Behnam Moradkhani, presents our first conference paper at [CRAS 2023](https://cras-eu.org/cras-2023/), happening in Paris, France.<br />
 <b>[06/2023]</b> [Paper](https://ieeexplore.ieee.org/abstract/document/10151923) on COAST robotic guidewire published in Robotics and Automation - Letters. <br />
 <b>[05/2023]</b> Plenary Talk at the 6th International Conference of Magnetic Surgery and Life Science (ICMS) <br />
 <b>[04/2023]</b> Invited speaker at the [The Holistic Forum of Medical Robotics Junior Professors](https://junior-forum-ismr.github.io/) at ISMR 2023. <br />
