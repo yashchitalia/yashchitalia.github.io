@@ -19,10 +19,23 @@ from the [Emory Winship Cancer Institute](https://winshipcancer.emory.edu/index.
 Feel free to send an email to <code class="language-plaintext highlighter-rouge">yash.chitalia[at]louisville[dot]edu</code> for any questions about my research.
 
 ### Lab Openings Announcement
-I have ~~two~~ one openings for highly motivated Ph.D. students in my research team, the [HEAlthcare Robotics and Telesurgery (HEART) Laboratory](https://hrtlab.github.io/). 
+I have ~~one~~ opening for highly motivated Ph.D. students in my research team, the [HEAlthcare Robotics and Telesurgery (HeaRT) Laboratory](https://hrtlab.github.io/). <br />
+The HeaRT lab is currently looking for motivated undergraduate and Masters students.<br />
 If playing with state-of-the-art 3D Printers, laser cutters, Raspberry Pi's and NVIDIA Jetsons piques your interest, and you'd like to make a Ph.D. sized dent in the universe, we're looking for you!
 
 ### News
+<b>[11/2023]</b> Invited speaker at University of Louisville Health - Neurosurgery. <br />
+<b>[10/2023]</b> Invited speaker at the [Duke Medical Robotics Symposium](https://sites.duke.edu/dukemedicalroboticssymposium/).<br />
+<b>[10/2023]</b> Organized a workshop on [Data vs. Model in Medical Robotics] (https://medrob-workshop.github.io/) at IROS 2023. <br />
+<b>[09/2023] </b> [Paper on Robotic Neuroendoscope](https://www.science.org/doi/abs/10.1126/scirobotics.adg6042) published in Science Robotics! 
+<b>[09/2023]</b> HeaRT Lab doctoral student, Behnam Moradkhani, presents our first conference paper at [CRAS 2023] (https://cras-eu.org/cras-2023/), happening in Paris, France.<br />
+<b>[06/2023]</b> [Paper](https://ieeexplore.ieee.org/abstract/document/10151923) on COAST robotic guidewire published in Robotics and Automation - Letters. <br />
+<b>[05/2023]</b> Plenary Talk at the 6th International Conference of Magnetic Surgery and Life Science (ICMS) <br />
+<b>[04/2023]</b> Invited speaker at the [The Holistic Forum of Medical Robotics Junior Professors](https://junior-forum-ismr.github.io/) at ISMR 2023. <br />
+<b>[04/2023]</b> Presented our paper on modeling tendon-driven concentric-tube robots at [ISMR 2023](https://ismr.gatech.edu/2023/program). <br />
+<b>[04/2023]</b> Invited speaker at the [Wisconsin Robotics Seminar Series](https://www.youtube.com/watch?v=UlUrpEng8wc). <br />
+<b>[02/2023]</b> Received the Ralph E. Powe Junior Faculty Enhancement Award <br />
+<!---
 <b>[03/2022]</b> Two papers accepted at the 2022 Hamlyn Symposium on Medical Robotics (HSMR 2022).<br />
 <b>[02/2022]</b> [Journal paper](https://ieeexplore.ieee.org/abstract/document/9722894) on bionic implant removal published in IEEE-TMRB.<br />
 <b>[11/2021]</b> Co-organized a workshop on [Dexterous and Continuum robot shape sensing](https://sites.google.com/view/2021-ismr-workshop-sensing/home) at IEEE ISMR 2021 in Atlanta, GA, featuring a spectacular line-up of speakers. <br />
@@ -47,5 +60,4 @@ If playing with state-of-the-art 3D Printers, laser cutters, Raspberry Pi's and 
 <b>[09/2019]</b> Robotic neuroendoscope research was highlighted by the incoming Georgia Tech president Dr. Angel Cabrera in [his institute address](https://youtu.be/PKn74QaDxJo?t=2813).<br />
 <b>[07/2019]</b> [News article](https://rh.gatech.edu/features/think-small#node-10970) on pediatric neuroendoscope published in Research Horizons magazine.<br />
 <b>[05/2019]</b> Invited speaker at the workshop on ['Open Challenges and State-of-the-Art in Control System Design and Technology Development for Surgical Robotic Systems'](https://sites.google.com/ualberta.ca/2019-icra-workshop/home?authuser=1) at [ICRA 2019])(https://www.icra2019.org/) in Montreal, Canada.<br />
-<b>[04/2019]</b> Our robotic guidewire project receives a [$2.8 Million grant](https://petitinstitute.gatech.edu/news/desai-secures-28-million-grant-develop-steerable-robotic-guidewire).<br />
-
+-->
