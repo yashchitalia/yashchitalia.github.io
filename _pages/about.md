@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
 ---
 <img align="right" src="https://yashchitalia.github.io/images/yash_chitalia_homepage.jpg" alt="Photo" style="width: 220px; border-radius: 10px; padding: 10px 10px 10px 10px"/>
-I am an Assistant Professor of Mechanical Engineering at the University of Louisville, where I head the [HEAlthcare Robotics and Telesurgery (HEART) Laboratory](https://hrtlab.github.io/). 
+I am an Assistant Professor of Mechanical Engineering at the University of Louisville, where I head the [HEAlthcare Robotics and Telesurgery (HEART) Laboratory](https://hrt-lab.github.io/). 
 At the HeaRT lab, we work on the design, modeling, and control of surgical robots, especially miniature continuum (flexible) robotic tools. 
 
 Prior to my faculty appointment, I was a Research Fellow in Cardiac Surgery at the Harvard Medical School and Boston Children's Hospital, where I worked with Dr. Pierre Dupont in the [Pediatric Cardiac Bioengineering Lab](http://robotics.tch.harvard.edu/main/index.php). In Summer 2021, I graduated with a Ph.D. from the [Medical Robotics and Automation Laboratory](https://robomed.gatech.edu/) at the Georgia Institute of Technology, where I worked on Robotic Guidewires and Neuro-endoscopes. 
