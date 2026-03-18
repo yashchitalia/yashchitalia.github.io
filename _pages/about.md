@@ -9,17 +9,13 @@ redirect_from:
   - /about.html
 ---
 <img align="right" src="https://yashchitalia.github.io/images/yash_chitalia_homepage.jpg" alt="Photo" style="width: 220px; border-radius: 10px; padding: 10px 10px 10px 10px"/>
-I am an Assistant Professor of Mechanical Engineering at the University of Louisville, where I head the [HEAlthcare Robotics and Telesurgery (HEART) Laboratory](https://www.heart-lab.io/). 
-At the HeaRT lab, we work on the design, modeling, and control of surgical robots, especially miniature continuum (flexible) robotic tools. 
-
 ### Deprecated Website:
 I have stopped updating this website for a while, all my latest innovations and robots can be found on my lab website: [HEAlthcare Robotics and Telesurgery (HEART) Laboratory](https://www.heart-lab.io/)
 
-Prior to my faculty appointment, I was a Research Fellow in Cardiac Surgery at the Harvard Medical School and Boston Children's Hospital, where I worked with Dr. Pierre Dupont in the [Pediatric Cardiac Bioengineering Lab](http://robotics.tch.harvard.edu/main/index.php). In Summer 2021, I graduated with a Ph.D. from the [Medical Robotics and Automation Laboratory](https://robomed.gatech.edu/) at the Georgia Institute of Technology, where I worked on Robotic Guidewires and Neuro-endoscopes. 
+I am an Assistant Professor of Mechanical Engineering at the University of Louisville, where I head the [HEAlthcare Robotics and Telesurgery (HEART) Laboratory](https://www.heart-lab.io/). 
+At the HeaRT lab, we work on the design, modeling, and control of surgical robots, especially miniature continuum (flexible) robotic tools. 
 
-I have been lucky to collaborate with experts at Georgia Tech in robotics, 
-mechatronics, computer vision, modeling of mechanical systems, machine learning and haptics. I have also collaborated with interventional radiologists, radiation oncologists and neurosurgeons 
-from the [Emory Winship Cancer Institute](https://winshipcancer.emory.edu/index.html) and the [Emory University Department of Neurosurgery](http://neurosurgery.emory.edu/).
+Prior to my faculty appointment, I was a Research Fellow in Cardiac Surgery at the Harvard Medical School and Boston Children's Hospital, where I worked with Dr. Pierre Dupont in the [Pediatric Cardiac Bioengineering Lab](http://robotics.tch.harvard.edu/main/index.php). In Summer 2021, I graduated with a Ph.D. from the [Medical Robotics and Automation Laboratory](https://robomed.gatech.edu/) at the Georgia Institute of Technology, where I worked on Robotic Guidewires and Neuro-endoscopes. 
 
 Feel free to send an email to <code class="language-plaintext highlighter-rouge">yash.chitalia[at]louisville[dot]edu</code> for any questions about my research. 
 
@@ -27,7 +23,7 @@ Feel free to send an email to <code class="language-plaintext highlighter-rouge"
 I have one opening for a motivated PhD student in my research team, the [HEAlthcare Robotics and Telesurgery (HeaRT) Laboratory](https://www.heart-lab.io/). <br />
 If playing with state-of-the-art 3D Printers, laser cutters, Raspberry Pi's and NVIDIA Jetsons piques your interest, and you'd like to make a Ph.D. sized dent in the universe, we're looking for you!
 
-### News
+### News (Deprecated)
 <b>[11/2023]</b> Invited speaker at University of Louisville Health - Neurosurgery. <br />
 <b>[10/2023]</b> Invited speaker at the [Duke Medical Robotics Symposium](https://sites.duke.edu/dukemedicalroboticssymposium/).<br />
 <b>[10/2023]</b> Organized a workshop on [Data vs. Model in Medical Robotics](https://medrob-workshop.github.io/) at IROS 2023. <br />
